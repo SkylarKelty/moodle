@@ -1,0 +1,3 @@
+[submodule "theme/essential"]
+	path = theme/essential
+	url = https://github.com/DBezemer/moodle-theme_essential.git
